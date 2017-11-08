@@ -1,19 +1,12 @@
 <br>
 <p align="center">
-  <img alt="HackCU IV" src="https://github.com/HackCU/splash-page/blob/master/img/hackcu_black.png" width="200"/>
+  <img alt="Croquetas Bar" src="https://github.com/TheCroquetasBar/frontend/blob/master/images/logo.png?raw=true" width="200"/>
 </p>
 <br>
 
+# The Croquetas Bar
 
-HackCU events website.
-
-# Features
-
-- Automatically updated webcalendar (ICS format) 
-- Add/Remove events
-- Automatic recognition of past events
-- Easy footer and header customization
-
+The Croquetas Bar events website, forked from [HackCU Events](https://github.com/HackCU/events)
 
 # Run project
 
@@ -21,8 +14,8 @@ Needs: Ruby
 
 ## Local 
 
-1. Clone repository to your computer with `git clone https://github.com/hackcu/events`
-2. `cd` into your repository
+1. Clone repository to your computer with `https://github.com/TheCroquetasBar/events.git`
+2. `cd events/`
 3. `gem install jekyll`
 4. `jekyll serve --watch`
 
@@ -41,14 +34,14 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 1. Go to [_data/events.yml](_data/events.yml)
 2. Copy and paste the following text
 ```
-- name: Startups2Students Fall #Event name
+- name: Twilight Hawkers Market #Event name
   light_background: True # Optional: only put if image-url is set and image is light
-  image-url: assets/img/startups2students.png # Optional: only if you want a preview image in the heading
-  line: Bridging the gap between students and startups # Small description of event
+  image-url: assets/img/twilighthawkersmarket.png # Optional: only if you want a preview image in the heading
+  line: original & biggest Street Food Market bringing the tastiest street food
   date: 2017-10-19 6:00 PM # Optional: When is the event starting
   end-date: 2017-10-19 8:00 PM # Optional: When is the event ending, make sure you set it if date is set
-  location: Idea Forge # Optional: Location where the event will be celebrated, set TBD if not sure yet
-  url: https://startups2students.org # Optional: Url with more info about the event
+  location: Perth # Optional: Location where the event will be celebrated, set TBD if not sure yet
+  url: http://twilighthawkersmarket.com/ # Optional: Url with more info about the event
 
 ```
 3. Edit the properties as described in the text you just copied
@@ -67,9 +60,6 @@ You can change various strings across the site, including the title of your app 
 
 Main colors can be changed on [_config.yml](_config.yml). For more "deep" styling, you can edit all styling in [assets/css/main.scss](assets/css/main.scss)
 
-
-
 # License
 
-
-MIT © HackCU
+MIT © The Croquetas Bar
