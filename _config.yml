@@ -1,21 +1,21 @@
 
 # PERSONALIZATION
 # Site variables
-name: HackCU Events
+name: The Croquetas Bar Events
 og: assets/img/og.png
 logo: /assets/img/logo.png
-original_repo: https://github.com/hackcu/events
-description: Find all of HackCU's events in one place.
+original_repo: https://github.com/TheCroquetasBar/events
+description: Find all of The Croquetas Bar's events in one place.
 ga: UA-109088240-1
-domain: events.hackcu.org
+domain: events.croquetasbar.com.au
 
 
 # Style variables
-accent_color: "#22b573"
-events_overlay_color: "#2697FF"
+accent_color: "#39454B"
+events_overlay_color: "#98c593;"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
-events_bg_img: assets/img/people.jpg
+events_bg_img: assets/img/bg.jpg
 
 # START THEME 2
 # accent_color: "#AA401B"
@@ -38,26 +38,28 @@ events_bg_img: assets/img/people.jpg
 # END WINTER THEME
 
 # Author variables
-author: HackCU
-author-description: "HackCU is a student organization at the University of Colorado at Boulder who brings together
-    people for our annual technology and design events, HackCU and Local Hack Day. We are the largest hackathon in the Rocky Mountain Region, and
-    our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
-email: contact@hackcu.org
+author: The Croquetas Bar
+author-description: "We are a group of passionate and experienced Chefs and food lovers from Barcelona (Spain) with
+                      roots from Andalusia and Basque Country. We cater for every function you may have, weddings,
+                      birthdays, afterwork. We can help you make your event a remarkable experience with our authentic
+                      mobile Spanish tapas bar."
+email: thecroquetasbar@gmail.com
 
 # Social media + community variables
-twitter: hackcu
-fb: hackcu
-fb-community: hackcu
-slack-signup: https://slack.hackcu.org
+# twitter: thecroquetasbar
+fb: thecroquetasbar
+# fb-community: thecroquetasbar
+# slack-signup: https://slack.thecroquetasbar.org
 
-instagram: hackcu
-github: hackcu
+instagram: thecroquetasbar
+linkedin: the-croquetas-bar
+# github: thecroquetasbar
 
 
 
 # TIMEZONE
 # Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/Denver
+timezone: Australia/Perth
 # Based on: http://erics-notes.blogspot.com/2013/05/fixing-ics-time-zone.html
 ical_timezone: |-
   BEGIN:DAYLIGHT
