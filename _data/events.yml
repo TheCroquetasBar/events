@@ -1,5 +1,5 @@
 - name: Twilight Wedding Market
-  # image-url: assets/img/image.png
+  image-url: assets/img/twilight-wedding-market.jpg
   line: Have a chat to these amazing teams to see how they can help you create your perfect event!
   date: 2017-11-02 4:30 PM
   end-date: 2017-11-02 8:30 PM
@@ -7,7 +7,7 @@
   url: https://www.facebook.com/events/849001695256175/
 
 - name: Twilight Hawkers Market
-  # image-url: assets/img/image.png
+  image-url: assets/img/thm.jpg
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
   date: 2017-11-03 4:30 PM
   end-date: 2017-11-03 9:30 PM
@@ -15,7 +15,7 @@
   url: http://twilighthawkersmarket.com/
 
 - name: TGIF Vic Park
-  # image-url: assets/img/image.png
+  image-url: assets/img/tgif-vic-park.jpg
   line: Thank God it's Friday Hawkers Market and runs yearly.
   date: 2017-11-10 5:00 PM
   end-date: 2017-11-10 9:00 PM
@@ -23,15 +23,15 @@
   url: https://www.tgifhawkersmarket.com.au/
 
 - name: Twilight Hawkers Market
-  # image-url: assets/img/image.png
+  image-url: assets/img/thm.jpg
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
   date: 2017-11-17 4:30 PM
   end-date: 2017-11-17 9:30 PM
   location: Forrest Place
   url: http://twilighthawkersmarket.com/
 
-- name: Subiaco Xmas Night of light
-  # image-url: assets/img/image.png
+- name: Subiaco Xmas Night of lights
+  image-url: assets/img/subiaco-xmas.jpg
   line: Can't wait for Christmas? Neither can we! Subiaco's streets will transform into a Christmas wonderland.
   date: 2017-11-24 4:00 PM
   end-date: 2017-11-24 9:00 PM
