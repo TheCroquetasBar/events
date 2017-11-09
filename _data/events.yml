@@ -21,3 +21,19 @@
   end-date: 2017-11-10 9:00 PM
   location: John Macmillan Park
   url: https://www.tgifhawkersmarket.com.au/
+
+- name: Twilight Hawkers Market
+  # image-url: assets/img/image.png
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2017-11-17 4:30 PM
+  end-date: 2017-11-17 9:30 PM
+  location: Forrest Place
+  url: http://twilighthawkersmarket.com/
+
+- name: Subiaco Xmas Night of light
+  # image-url: assets/img/image.png
+  line: Can't wait for Christmas? Neither can we! Subiaco's streets will transform into a Christmas wonderland.
+  date: 2017-11-24 4:00 PM
+  end-date: 2017-11-24 9:00 PM
+  location: Rokeby Road, Subiaco
+  url: https://www.facebook.com/events/256418121550845/
