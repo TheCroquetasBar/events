@@ -3,7 +3,7 @@
   line: Have a chat to these amazing teams to see how they can help you create your perfect event!
   date: 2017-11-02 4:30 PM
   end-date: 2017-11-02 8:30 PM
-  location: Perth City Farm
+  location: Perth City Farm, East Perth
   url: https://www.facebook.com/events/849001695256175/
 
 - name: Twilight Hawkers Market
@@ -11,7 +11,7 @@
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
   date: 2017-11-03 4:30 PM
   end-date: 2017-11-03 9:30 PM
-  location: Forrest Place
+  location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
 
 - name: TGIF Vic Park
@@ -19,7 +19,7 @@
   line: Thank God it's Friday Hawkers Market and runs yearly.
   date: 2017-11-10 5:00 PM
   end-date: 2017-11-10 9:00 PM
-  location: John Macmillan Park
+  location: John Macmillan Park, Victoria Park
   url: https://www.tgifhawkersmarket.com.au/
 
 - name: Twilight Hawkers Market
@@ -27,7 +27,7 @@
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
   date: 2017-11-17 4:30 PM
   end-date: 2017-11-17 9:30 PM
-  location: Forrest Place
+  location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
 
 - name: Subiaco Xmas Night of lights
@@ -37,3 +37,123 @@
   end-date: 2017-11-24 9:00 PM
   location: Rokeby Road, Subiaco
   url: https://www.facebook.com/events/256418121550845/
+
+- name: Donnybrook Food & Wine Festival
+  image-url: assets/img/donnybrook-fest.jpg
+  line: Enjoy a great family day out in the heart of Donnybrook along the banks of the Preston River.
+  date: 2017-11-25 10:00 AM
+  end-date: 2017-11-25 5:00 PM
+  location: Donnybrook Amphitheatre, Donnybrook
+  url: https://www.donnybrookfoodandwinefest.com.au/
+
+- name: Twilight Hawkers Market
+  image-url: assets/img/thm.jpg
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2017-12-01 4:30 PM
+  end-date: 2017-12-01 9:30 PM
+  location: Forrest Place, Perth
+  url: http://twilighthawkersmarket.com/
+
+- name: Bazaar, WA's Best Christmas Market
+  image-url: assets/img/bazaar.jpg
+  line: It's the perfect place to pick up high quality, one-of-a-kind gifts for loved ones this Christmas.
+  date: 2017-12-01 5:00 PM
+  end-date: 2017-12-01 10:00 PM
+  location: Freemantle Arts Center, Freemantle
+  url: https://www.facebook.com/events/122121268504207/
+
+- name: Bazaar, WA's Best Christmas Market
+  image-url: assets/img/bazaar.jpg
+  line: It's the perfect place to pick up high quality, one-of-a-kind gifts for loved ones this Christmas.
+  date: 2017-12-02 9:00 AM
+  end-date: 2017-12-02 5:00 PM
+  location: Freemantle Arts Center, Freemantle
+  url: https://www.facebook.com/events/122121268504207/
+
+- name: Bazaar, WA's Best Christmas Market
+  image-url: assets/img/bazaar.jpg
+  line: It's the perfect place to pick up high quality, one-of-a-kind gifts for loved ones this Christmas.
+  date: 2017-12-03 9:00 AM
+  end-date: 2017-12-03 5:00 PM
+  location: Freemantle Arts Center, Freemantle
+  url: https://www.facebook.com/events/122121268504207/
+
+- name: TGIF Vic Park
+  image-url: assets/img/tgif-vic-park.jpg
+  line: Thank God it's Friday Hawkers Market and runs yearly.
+  date: 2017-12-08 5:00 PM
+  end-date: 2017-12-08 9:00 PM
+  location: John Macmillan Park, Victoria Park
+  url: https://www.tgifhawkersmarket.com.au/
+
+- name: Twilight Hawkers Market
+  image-url: assets/img/thm.jpg
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2017-12-15 4:30 PM
+  end-date: 2017-12-15 9:30 PM
+  location: Forrest Place, Perth
+  url: http://twilighthawkersmarket.com/
+
+- name: Kyilla Christmas Market
+  image-url: assets/img/kyilla.jpg
+  line: Food Trucks, Gift stalls and Kids entertainment.
+  date: 2017-12-19 4:00 PM
+  end-date: 2017-12-19 9:00 PM
+  location: Kyilla Park, North Perth
+  url: https://www.facebook.com/events/1560512697347090/
+
+- name: TABtouch Perth Cup
+  image-url: assets/img/perth-cup.jpg
+  line: The good times start again as we kick off 2018 in tradition with the iconic Perth Cup.
+  date: 2018-01-01 9:00 AM
+  end-date: 2018-01-01 5:00 PM
+  location: Ascot Racecourse, Ascot
+  url: https://www.perthracing.org.au/calendar/2018-01-01/perth-cup
+
+- name: TGIF Vic Park
+  image-url: assets/img/tgif-vic-park.jpg
+  line: Thank God it's Friday Hawkers Market and runs yearly.
+  date: 2018-01-05 5:00 PM
+  end-date: 2018-01-05 9:00 PM
+  location: John Macmillan Park, Victoria Park
+  url: https://www.tgifhawkersmarket.com.au/
+
+- name: TGIF Vic Park
+  image-url: assets/img/tgif-vic-park.jpg
+  line: Thank God it's Friday Hawkers Market and runs yearly.
+  date: 2018-01-19 5:00 PM
+  end-date: 2018-01-19 9:00 PM
+  location: John Macmillan Park, Victoria Park
+  url: https://www.tgifhawkersmarket.com.au/
+
+- name: Twilight Hawkers Market
+  image-url: assets/img/thm.jpg
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2018-02-09 4:30 PM
+  end-date: 2018-02-09 9:30 PM
+  location: Forrest Place, Perth
+  url: http://twilighthawkersmarket.com/
+
+- name: Twilight Hawkers Market
+  image-url: assets/img/thm.jpg
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2018-02-23 4:30 PM
+  end-date: 2018-02-23 9:30 PM
+  location: Forrest Place, Perth
+  url: http://twilighthawkersmarket.com/
+
+- name: Twilight Hawkers Market
+  image-url: assets/img/thm.jpg
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2018-03-09 4:30 PM
+  end-date: 2018-03-09 9:30 PM
+  location: Forrest Place, Perth
+  url: http://twilighthawkersmarket.com/
+
+- name: Twilight Hawkers Market
+  image-url: assets/img/thm.jpg
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2018-03-23 4:30 PM
+  end-date: 2018-03-23 9:30 PM
+  location: Forrest Place, Perth
+  url: http://twilighthawkersmarket.com/
