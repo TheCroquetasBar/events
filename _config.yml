@@ -1,4 +1,3 @@
-
 # PERSONALIZATION
 # Site variables
 name: The Croquetas Bar Events
@@ -53,9 +52,7 @@ fb: thecroquetasbar
 
 instagram: thecroquetasbar
 linkedin: the-croquetas-bar
-github: TheCroquetasBar
-
-
+github-org: TheCroquetasBar
 
 # TIMEZONE
 # Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
