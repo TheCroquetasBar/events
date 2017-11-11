@@ -139,6 +139,16 @@ header {
         
     }
 
+    @media screen and (max-width: 736px) {
+
+		img.logo {
+			display: block;
+    		margin-left: auto;
+    		margin-right: auto;
+		}
+
+	}
+
     img.logo, .lead,  .btn {
         margin-bottom: 2em;
 
