@@ -6,7 +6,7 @@
 
 # The Croquetas Bar
 
-The Croquetas Bar events website, forked from [HackCU Events](https://github.com/HackCU/events)
+The Croquetas Bar events website.
 
 # Run project
 
@@ -21,11 +21,16 @@ Needs: Ruby
 
 ## Deploy
 
-1. Activate GitHub pages for repo on master branch
-2. Push changes to master
-3. There's no `3`
+1. Push changes to master
+2. There's no `3`
 
 Deployment is done automatically by [GitHub pages](https://pages.github.com/). You don't need to do anything else than pushing to master.
+
+# Use for your organization
+
+1. Fork this repository
+2. Activate Github pages for your new repo
+3. Personalize
 
 # Personalization
 
