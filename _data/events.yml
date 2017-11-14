@@ -78,14 +78,6 @@
   location: Freemantle Arts Center, Freemantle
   url: https://www.facebook.com/events/122121268504207/
 
-- name: TGIF Vic Park
-  image-url: assets/img/tgif-vic-park.jpg
-  line: Thank God it's Friday Hawkers Market and runs yearly.
-  date: 2017-12-08 5:00 PM
-  end-date: 2017-12-08 9:00 PM
-  location: John Macmillan Park, Victoria Park
-  url: https://www.tgifhawkersmarket.com.au/
-
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
@@ -109,22 +101,6 @@
   end-date: 2018-01-01 5:00 PM
   location: Ascot Racecourse, Ascot
   url: https://www.perthracing.org.au/calendar/2018-01-01/perth-cup
-
-- name: TGIF Vic Park
-  image-url: assets/img/tgif-vic-park.jpg
-  line: Thank God it's Friday Hawkers Market and runs yearly.
-  date: 2018-01-05 5:00 PM
-  end-date: 2018-01-05 9:00 PM
-  location: John Macmillan Park, Victoria Park
-  url: https://www.tgifhawkersmarket.com.au/
-
-- name: TGIF Vic Park
-  image-url: assets/img/tgif-vic-park.jpg
-  line: Thank God it's Friday Hawkers Market and runs yearly.
-  date: 2018-01-19 5:00 PM
-  end-date: 2018-01-19 9:00 PM
-  location: John Macmillan Park, Victoria Park
-  url: https://www.tgifhawkersmarket.com.au/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
