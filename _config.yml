@@ -38,10 +38,11 @@ events_bg_img: assets/img/bg.jpg
 
 # Author variables
 author: The Croquetas Bar
-author-description: "We are a group of passionate and experienced Chefs and food lovers from Barcelona (Spain) with
-                      roots from Andalusia and Basque Country. We cater for every function you may have, weddings,
-                      birthdays, afterwork. We can help you make your event a remarkable experience with our authentic
-                      mobile Spanish tapas bar."
+author-description: "Originally from Barcelona, Spain, The Croquetas Bar team is passionate for food and delighted to
+                    share our cuisine and culture with you. Javier, our experienced head-chef, has worked in Spanish
+                    tapas restaurants for many years and follows the traditional recipes to get the authentic flavour.<br>
+                    We cater for every function you may have, from weddings, birthdays, or afterwork. We can help you
+                    make your event a remarkable experience with our authentic mobile Spanish tapas bar."
 email: thecroquetasbar@gmail.com
 
 # Social media + community variables
