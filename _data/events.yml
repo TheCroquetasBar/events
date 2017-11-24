@@ -38,14 +38,6 @@
   location: Rokeby Road, Subiaco
   url: https://www.facebook.com/events/256418121550845/
 
-- name: Donnybrook Food & Wine Festival
-  image-url: assets/img/donnybrook-fest.jpg
-  line: Enjoy a great family day out in the heart of Donnybrook along the banks of the Preston River.
-  date: 2017-11-25 10:00 AM
-  end-date: 2017-11-25 5:00 PM
-  location: Donnybrook Amphitheatre, Donnybrook
-  url: https://www.donnybrookfoodandwinefest.com.au/
-
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
@@ -125,6 +117,14 @@
   end-date: 2018-03-09 9:30 PM
   location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
+
+- name: Harvey Harvest Festival
+  image-url: assets/img/harvey-harvest.jpg
+  line: Experience the atmosphere of Italy at the LiveLighter Harvey Harvest Festival.
+  date: 2018-03-18 9:00 AM
+  end-date: 2018-03-18 4:00 PM
+  location: Snell Park, Harvey
+  url: http://harveyfest.com.au/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
