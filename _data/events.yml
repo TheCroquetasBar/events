@@ -102,6 +102,14 @@
   location: Churchill Park, Rockingham
   url: http://rockingham.wa.gov.au/Events/2017/December/City-of-Rockingham-New-Year-s-Eve-Celebration
 
+- name: Bunbury SkyFest Australia Day
+  image-url: assets/img/australia-day.jpg
+  line:  We invite all to join us in this celebration of National pride and Australian spirit.
+  date: 2018-01-26 4:00 PM
+  end-date: 2018-01-26 10:00 PM
+  location: Bicentennial Square Music Shell, Bunbury
+  url: http://www.bunbury.wa.gov.au/Pages/SkyFest.aspx
+
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
@@ -118,6 +126,14 @@
   location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
 
+- name: Perth Makers Market
+  image-url: assets/img/pmm.jpg
+  line: PMM is an exclusively handmade artisan market South of the Swan River that makes it's home.
+  date: 2018-02-23 9:30 AM
+  end-date: 2018-02-23 3:30 PM
+  location: Perth Makers Market, Applecross
+  url: https://www.facebook.com/events/1452970498118707/
+
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
   line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
@@ -125,6 +141,14 @@
   end-date: 2018-03-09 9:30 PM
   location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
+
+- name: International Food Festival Rockingham
+  image-url: assets/img/food-fest.jpg
+  line: Demonstrating culinary delights from around the globe and live cultural performances.
+  date: 2018-03-16 5:00 PM
+  end-date: 2018-03-16 9:00 PM
+  location: Churchill Park, Rockingham
+  url: https://us.eventbu.com/rockingham/international-food-festival/1127588
 
 - name: Harvey Harvest Festival
   image-url: assets/img/harvey-harvest.jpg
