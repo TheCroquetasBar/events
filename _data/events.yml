@@ -51,7 +51,7 @@
   line: It's the perfect place to pick up high quality, one-of-a-kind gifts for loved ones this Christmas.
   date: 2017-12-01 5:00 PM
   end-date: 2017-12-01 10:00 PM
-  location: Freemantle Arts Center, Freemantle
+  location: Fremantle Arts Center, Fremantle
   url: https://www.facebook.com/events/122121268504207/
 
 - name: Bazaar, WA's Best Christmas Market
@@ -59,7 +59,7 @@
   line: It's the perfect place to pick up high quality, one-of-a-kind gifts for loved ones this Christmas.
   date: 2017-12-02 9:00 AM
   end-date: 2017-12-02 5:00 PM
-  location: Freemantle Arts Center, Freemantle
+  location: Fremantle Arts Center, Fremantle
   url: https://www.facebook.com/events/122121268504207/
 
 - name: Bazaar, WA's Best Christmas Market
@@ -67,8 +67,24 @@
   line: It's the perfect place to pick up high quality, one-of-a-kind gifts for loved ones this Christmas.
   date: 2017-12-03 9:00 AM
   end-date: 2017-12-03 5:00 PM
-  location: Freemantle Arts Center, Freemantle
+  location: Fremantle Arts Center, Fremantle
   url: https://www.facebook.com/events/122121268504207/
+
+- name: Tash Sultana Concert
+  image-url: assets/img/tash-sultana.jpg
+  line: After an 18-month World tour, Tash Sultana is coming to play 6 of her biggest shows to date.
+  date: 2017-12-07 6:00 PM
+  end-date: 2017-12-07 10:00 PM
+  location: Fremantle Arts Center, Fremantle
+  url: https://www.facebook.com/events/1812080272438412/
+
+- name: Tash Sultana Concert
+  image-url: assets/img/tash-sultana.jpg
+  line: After an 18-month World tour, Tash Sultana is coming to play 6 of her biggest shows to date.
+  date: 2017-12-08 6:00 PM
+  end-date: 2017-12-08 10:00 PM
+  location: Fremantle Arts Center, Fremantle
+  url: https://www.facebook.com/events/1812080272438412/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
@@ -78,21 +94,13 @@
   location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
 
-- name: Kyilla Christmas Market
-  image-url: assets/img/kyilla.jpg
-  line: Food Trucks, Gift stalls and Kids entertainment.
-  date: 2017-12-19 4:00 PM
-  end-date: 2017-12-19 9:00 PM
-  location: Kyilla Park, North Perth
-  url: https://www.facebook.com/events/1560512697347090/
-
-- name: TABtouch Perth Cup
-  image-url: assets/img/perth-cup.jpg
-  line: The good times start again as we kick off 2018 in tradition with the iconic Perth Cup.
-  date: 2018-01-01 9:00 AM
-  end-date: 2018-01-01 5:00 PM
-  location: Ascot Racecourse, Ascot
-  url: https://www.perthracing.org.au/calendar/2018-01-01/perth-cup
+- name: Rockingham NYE
+  image-url: assets/img/nye.jpg
+  line: Join Shannon Noll, Livewire, and the Milkmen will welcome in the NY at the Rockingham Foreshore.
+  date: 2017-12-31 5:00 AM
+  end-date: 2017-12-31 11:59 PM
+  location: Churchill Park, Rockingham
+  url: http://rockingham.wa.gov.au/Events/2017/December/City-of-Rockingham-New-Year-s-Eve-Celebration
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
