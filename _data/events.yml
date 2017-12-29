@@ -97,10 +97,26 @@
 - name: Rockingham NYE
   image-url: assets/img/nye.jpg
   line: Join Shannon Noll, Livewire, and the Milkmen will welcome in the NY at the Rockingham Foreshore.
-  date: 2017-12-31 5:00 AM
+  date: 2017-12-31 5:00 PM
   end-date: 2017-12-31 11:59 PM
   location: Churchill Park, Rockingham
   url: http://rockingham.wa.gov.au/Events/2017/December/City-of-Rockingham-New-Year-s-Eve-Celebration
+
+- name: Falls Festival
+  image-url: assets/img/falls-festival.jpg
+  line: The Falls Music & Arts Festival is back in Western Australia!
+  date: 2018-01-06 1:00 PM
+  end-date: 2018-01-06 10:00 PM
+  location: Parry St, Fremantle
+  url: https://www.fallsfestival.com/fremantle/
+
+- name: Falls Festival
+  image-url: assets/img/falls-festival.jpg
+  line: The Falls Music & Arts Festival is back in Western Australia!
+  date: 2018-01-07 1:00 PM
+  end-date: 2018-01-07 10:00 PM
+  location: Parry St, Fremantle
+  url: https://www.fallsfestival.com/fremantle/
 
 - name: Bunbury SkyFest Australia Day
   image-url: assets/img/australia-day.jpg
@@ -117,6 +133,14 @@
   end-date: 2018-02-09 9:30 PM
   location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
+
+- name: Laneway Festival
+  image-url: assets/img/laneway.jpg
+  line: Laneway Festival is super proud to unveil our main line-up for 2018!
+  date: 2018-02-11 11:00 AM
+  end-date: 2018-02-11 10:00 PM
+  location: Esplanade Park, Fremantle
+  url: http://fremantle.lanewayfestival.com/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
