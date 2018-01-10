@@ -118,6 +118,14 @@
   location: Parry St, Fremantle
   url: https://www.fallsfestival.com/fremantle/
 
+- name: South Beach Sunset Markets
+  image-url: assets/img/south-beach.jpg 
+  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  date: 2018-01-13 5:00 PM
+  end-date: 2018-01-13 9:00 PM
+  location: South Beach, Fremantle
+  url: https://www.southbeachsunsetmarkets.com/
+
 - name: Embargo Container Bar
   image-url: assets/img/embargo.jpg
   line: Embargo is full of comfortable spots to sit and enjoy a delicious beer and food in the sun.
