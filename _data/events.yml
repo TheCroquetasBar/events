@@ -118,6 +118,30 @@
   location: Parry St, Fremantle
   url: https://www.fallsfestival.com/fremantle/
 
+- name: Embargo Container Bar
+  image-url: assets/img/embargo.jpg
+  line: Embargo is full of comfortable spots to sit and enjoy a delicious beer and food in the sun.
+  date: 2018-01-14 12:00 PM
+  end-date: 2018-01-14 10:30 PM
+  location: McCallum Park, Vic Park Foreshore
+  url: http://www.embargobar.com.au/
+
+- name: Embargo Container Bar
+  image-url: assets/img/embargo.jpg
+  line: Embargo is full of comfortable spots to sit and enjoy a delicious beer and food in the sun.
+  date: 2018-01-19 4:00 PM
+  end-date: 2018-01-19 10:30 PM
+  location: McCallum Park, Vic Park Foreshore
+  url: http://www.embargobar.com.au/
+
+  - name: Embargo Container Bar
+  image-url: assets/img/embargo.jpg
+  line: Embargo is full of comfortable spots to sit and enjoy a delicious beer and food in the sun.
+  date: 2018-01-21 12:00 PM
+  end-date: 2018-01-21 10:30 PM
+  location: McCallum Park, Vic Park Foreshore
+  url: http://www.embargobar.com.au/
+
 - name: Bunbury SkyFest Australia Day
   image-url: assets/img/australia-day.jpg
   line:  We invite all to join us in this celebration of National pride and Australian spirit.
@@ -133,6 +157,14 @@
   end-date: 2018-02-09 9:30 PM
   location: Forrest Place, Perth
   url: http://twilighthawkersmarket.com/
+
+- name: Cambridge Street Festival
+  image-url: assets/img/cambridge.jpg
+  line: There will be plenty to eat and drink...and lots more fun for the whole family.
+  date: 2018-02-10 3:00 PM
+  end-date: 2018-02-10 8:00 PM
+  location: Cambridge Street, Wembley
+  url: https://www.cambridge.wa.gov.au/Discover-the-Town/Whats-On/Cambridge-Street-Festival
 
 - name: Laneway Festival
   image-url: assets/img/laneway.jpg
