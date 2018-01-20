@@ -152,7 +152,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-01-20 5:00 PM
   end-date: 2018-01-20 9:00 PM
   location: South Beach, Fremantle
@@ -184,7 +184,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-01-27 5:00 PM
   end-date: 2018-01-27 9:00 PM
   location: South Beach, Fremantle
@@ -200,7 +200,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-02-03 5:00 PM
   end-date: 2018-02-03 9:00 PM
   location: South Beach, Fremantle
@@ -232,7 +232,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-02-10 5:00 PM
   end-date: 2018-02-10 9:00 PM
   location: South Beach, Fremantle
@@ -256,7 +256,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-02-17 5:00 PM
   end-date: 2018-02-17 9:00 PM
   location: South Beach, Fremantle
@@ -288,7 +288,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-02-24 5:00 PM
   end-date: 2018-02-24 9:00 PM
   location: South Beach, Fremantle
@@ -312,7 +312,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-03-03 5:00 PM
   end-date: 2018-03-03 9:00 PM
   location: South Beach, Fremantle
@@ -344,7 +344,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-03-10 5:00 PM
   end-date: 2018-03-10 9:00 PM
   location: South Beach, Fremantle
@@ -368,7 +368,7 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-03-17 5:00 PM
   end-date: 2018-03-17 9:00 PM
   location: South Beach, Fremantle
@@ -400,8 +400,16 @@
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-03-24 5:00 PM
   end-date: 2018-03-24 9:00 PM
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
+
+- name: Angelo Street Marketplace
+  image-url: assets/img/angelo-street.jpg 
+  line: It's a community celebration featuring an array of music and fashion talent on stage.
+  date: 2018-03-25 10:00 AM
+  end-date: 2018-03-25 4:00 PM
+  location: Angelo Street, South Perth
+  url: https://southperth.wa.gov.au/discover/whats-on/angelo-street-marketplace
