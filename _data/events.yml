@@ -118,29 +118,37 @@
   location: Parry St, Fremantle
   url: https://www.fallsfestival.com/fremantle/
 
+- name: Post Malone Concert
+  image-url: assets/img/post-malone.jpg
+  line: This is going to be a unmissable spectacle!
+  date: 2018-01-12 8:00 PM
+  end-date: 2018-01-12 11:59 PM
+  location: Red Hill Auditorium
+  url: https://www.facebook.com/events/1550445028376547/
+
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
-  line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
+  line: Enjoy food, live entertainment and a popup bar, on the beach while watching the sunset.
   date: 2018-01-13 5:00 PM
   end-date: 2018-01-13 9:00 PM
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
 
-- name: Embargo Container Bar
-  image-url: assets/img/embargo.jpg
-  line: Embargo is full of comfortable spots to sit and enjoy a delicious beer and food in the sun.
-  date: 2018-01-14 12:00 PM
-  end-date: 2018-01-14 10:30 PM
-  location: McCallum Park, Vic Park Foreshore
-  url: http://www.embargobar.com.au/
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-01-18 5:00 PM
+  end-date: 2018-01-18 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
 
-- name: Embargo Container Bar
-  image-url: assets/img/embargo.jpg
-  line: Embargo is full of comfortable spots to sit and enjoy a delicious beer and food in the sun.
-  date: 2018-01-19 4:00 PM
-  end-date: 2018-01-19 10:30 PM
-  location: McCallum Park, Vic Park Foreshore
-  url: http://www.embargobar.com.au/
+- name: Fatboy Slim Concert
+  image-url: assets/img/fatboy-slim.jpg
+  line: He returns pulling on his signature Hawaiian shirt and being the life and soul of the party.
+  date: 2018-01-19 6:30 PM
+  end-date: 2018-01-19 11:59 PM
+  location: Red Hill Auditorium
+  url: https://www.facebook.com/events/743314125854614/
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
@@ -158,13 +166,21 @@
   location: McCallum Park, Vic Park Foreshore
   url: http://www.embargobar.com.au/
 
-- name: Bunbury SkyFest Australia Day
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-01-25 5:00 PM
+  end-date: 2018-01-25 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
+
+- name: Perth Australia Day
   image-url: assets/img/australia-day.jpg
   line:  We invite all to join us in this celebration of National pride and Australian spirit.
-  date: 2018-01-26 4:00 PM
-  end-date: 2018-01-26 10:00 PM
-  location: Bicentennial Square Music Shell, Bunbury
-  url: http://www.bunbury.wa.gov.au/Pages/SkyFest.aspx
+  date: 2018-01-26 3:00 PM
+  end-date: 2018-01-26 8:30 PM
+  location: Langley Park, Perth
+  url: https://www.facebook.com/events/2049400995292746/
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
@@ -174,6 +190,14 @@
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
 
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-02-01 5:00 PM
+  end-date: 2018-02-01 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
+
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
   line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
@@ -181,6 +205,14 @@
   end-date: 2018-02-03 9:00 PM
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
+
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-02-08 5:00 PM
+  end-date: 2018-02-08 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
@@ -198,13 +230,13 @@
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
 
-- name: Laneway Festival
-  image-url: assets/img/laneway.jpg
-  line: Laneway Festival is super proud to unveil our main line-up for 2018!
-  date: 2018-02-11 11:00 AM
-  end-date: 2018-02-11 10:00 PM
-  location: Esplanade Park, Fremantle
-  url: http://fremantle.lanewayfestival.com/
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-02-15 5:00 PM
+  end-date: 2018-02-15 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
 
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
@@ -213,6 +245,14 @@
   end-date: 2018-02-17 9:00 PM
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
+
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-02-22 5:00 PM
+  end-date: 2018-02-22 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
@@ -238,6 +278,14 @@
   location: Perth Makers Market, Applecross
   url: https://www.facebook.com/events/1452970498118707/
 
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-03-01 5:00 PM
+  end-date: 2018-03-01 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
+
 - name: South Beach Sunset Markets
   image-url: assets/img/south-beach.jpg 
   line: Enjoy amazing food, live entertainment and a popup bar, on the beach while watching the sunset.
@@ -245,6 +293,14 @@
   end-date: 2018-03-03 9:00 PM
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
+
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-03-08 5:00 PM
+  end-date: 2018-03-08 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
@@ -270,6 +326,14 @@
   location: South Beach, Fremantle
   url: https://www.southbeachsunsetmarkets.com/
 
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-03-15 5:00 PM
+  end-date: 2018-03-15 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
+
 - name: International Food Festival Rockingham
   image-url: assets/img/food-fest.jpg
   line: Demonstrating culinary delights from around the globe and live cultural performances.
@@ -293,6 +357,14 @@
   end-date: 2018-03-18 4:00 PM
   location: Snell Park, Harvey
   url: http://harveyfest.com.au/
+
+- name: Scarborough Sunset Markets
+  image-url: assets/img/scarborough.jpg 
+  line: It will beat spending your summer nights on Scarborough Beach with your toes in the sand. 
+  date: 2018-03-22 5:00 PM
+  end-date: 2018-03-22 10:00 PM
+  location: Scarborough beach, Scarborough
+  url: http://www.scarboroughbeach.net/sunset-markets/
 
 - name: Twilight Hawkers Market
   image-url: assets/img/thm.jpg
